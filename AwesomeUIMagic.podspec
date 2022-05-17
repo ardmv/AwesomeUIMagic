@@ -30,7 +30,7 @@ Your UI has never been so powerful.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'AwesomeUIMagic/Classes/**/*'
+  s.source_files = 'Sources/AwesomeUIMagic/Classes/**/*'
   
   # s.resource_bundles = {
   #   'AwesomeUIMagic' => ['AwesomeUIMagic/Assets/*.png']
